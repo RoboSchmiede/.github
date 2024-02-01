@@ -1,2 +1,1 @@
-# .github
-This is a ✨special ✨ repository
+# special ✨ repository
